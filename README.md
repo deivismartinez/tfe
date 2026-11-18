@@ -10,7 +10,7 @@ El procedimiento metodológico se estructuró en varias etapas: obtención e int
 2. Otra fuente [TCGA BRCA cancer dataset](https://zenodo.org/records/4309168)
  
 3. Se decidió la siguiente arquitectura para la solución
-<p align="center"><img width="400" height="620" alt="work_flow" src="images/Architecture.png" /></p>
+<p align="center"><img width="300" height="460" alt="work_flow" src="images/Architecture.png" /></p>
 
 # Flujo de Trabajo en R para el análisis de los datos y la programación de los modelos de Machine Learning están en la carpeta  [src](/src/)
 El flujo de trabajo integra **Python** y **R** para el análisis y desarrollo.
@@ -24,5 +24,5 @@ El flujo de trabajo integra **Python** y **R** para el análisis y desarrollo.
 |--|
 | Ing. Deivis Martínez A.|
 <div style="text-align: center;">
-<img width="300" height="200" alt="Logo UNIR" src="https://upload.wikimedia.org/wikipedia/commons/d/df/Logo_UNIR.png" />
+<p align="center"><img width="300" height="200" alt="Logo UNIR" src="https://upload.wikimedia.org/wikipedia/commons/d/df/Logo_UNIR.png" /></p>
 </div>
