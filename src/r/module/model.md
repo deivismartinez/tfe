@@ -109,3 +109,4 @@ Este modelo tiene fines académicos y de investigación. No ha sido validado par
 El archivo de ejemplo permite comprobar el funcionamiento técnico del paquete, pero no representa una validación clínica independiente.
 
 Para reproducir el entrenamiento se requiere el código correspondiente y acceso a los datos originales.  Se puede hacer desde el apartado 5. [Replicar toda la parte experimental del TFE.  Aquí](/src/r/total/total.md) encontramo el detalle de lo que se hizo
+<div style="text-align: center;"><p align="center"><img width="300" height="200" alt="Logo UNIR" src="https://upload.wikimedia.org/wikipedia/commons/d/df/Logo_UNIR.png" /></p></div>

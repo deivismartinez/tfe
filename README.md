@@ -27,8 +27,6 @@ El flujo de trabajo integra **Python** y **R** para el análisis y desarrollo de
 |Presentado por:  |
 |--|
 | Ing. Deivis Martínez A.|
-<div style="text-align: center;">
-<p align="center"><img width="300" height="200" alt="Logo UNIR" src="https://upload.wikimedia.org/wikipedia/commons/d/df/Logo_UNIR.png" /></p>
-</div>
+<div style="text-align: center;"><p align="center"><img width="300" height="200" alt="Logo UNIR" src="https://upload.wikimedia.org/wikipedia/commons/d/df/Logo_UNIR.png" /></p></div>
 1. Consultamos la base de datos [The Cancer Genome Atlas (TCGA)](https://portal.gdc.cancer.gov/projects/TCGA-BRCA) donde se encuentra la información o los datos usados en el proyecto.
 2. Otra fuente [TCGA BRCA cancer dataset](https://zenodo.org/records/4309168)
