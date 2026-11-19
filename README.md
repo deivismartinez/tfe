@@ -14,7 +14,7 @@ El procedimiento metodológico se estructuró en varias etapas: obtención e int
 
 
 Se construyó la siguiente arquitectura para la solución:
-<p align="center"><img width="300" height="460" alt="work_flow" src="images/Architecture.png" /></p>
+<p align="center"><img width="350" height="535" alt="work_flow" src="images/Architecture.png" /></p>
 
 ## Flujo de Trabajo en R para el análisis de los datos y la programación de los modelos de Machine Learning están en la carpeta 
 El flujo de trabajo integra **Python** y **R** para el análisis y desarrollo del módulo lo encontramos en la sección de [src](/src/).

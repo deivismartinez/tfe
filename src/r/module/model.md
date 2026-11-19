@@ -21,8 +21,8 @@ Estas estimaciones son resultados de un modelo experimental de investigación y 
 | Archivo | Descripción |
 |---|---|
 | `modulo_pronostico.rds` | Modelo entrenado, genes y riesgo basal |
-| `predecir_paciente.R` | Función para realizar predicciones [(Ver)](/predecir_paciente.R) |
-| `paciente_001.csv` | Archivo de expresión de ejemplo [(Ver)](/paciente_001.csv)|
+| `predecir_paciente.R` | Función para realizar predicciones [(Ver)](predecir_paciente.R) |
+| `paciente_001.csv` | Archivo de expresión de ejemplo [(Ver)](paciente_001.csv)|
 
 ## 3. Requisitos
 
